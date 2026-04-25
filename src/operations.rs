@@ -1,1 +1,1 @@
-// dgemm implementation
+// nrm2 and asum
