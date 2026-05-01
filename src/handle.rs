@@ -1,1 +1,1 @@
-// math mode control
+// pointer mode
