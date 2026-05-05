@@ -1,1 +1,1 @@
-// CPU reference test
+// batched test
