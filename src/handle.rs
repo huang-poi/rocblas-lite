@@ -1,1 +1,1 @@
-// pointer mode
+// atomics mode
