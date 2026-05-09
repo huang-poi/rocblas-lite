@@ -1,1 +1,1 @@
-// gemm_ex
+// gemm_batched
